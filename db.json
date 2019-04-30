@@ -1,0 +1,100 @@
+{
+  "contacts": [
+    {
+      "id": "c1001",
+      "name": "Twilio",
+      "email": "twilio@gmail.com",
+      "address": "xx-xx-xxxx,x - street, x - country",
+      "gender": "Male",
+      "number": "9829012345"
+    },
+    {
+      "id": "c1002",
+      "name": "Tony Stark",
+      "email": "tonystark@gmail.com",
+      "address": "xx-xx-xxxx,x - street, x - country",
+      "gender": "Male",
+      "number": "9828012345"
+    },
+    {
+      "id": "c100",
+      "name": "Ravi Tamada",
+      "email": "ravi@gmail.com",
+      "address": "xx-xx-xxxx,x - street, x - country",
+      "gender": "Male",
+      "number": "9999999999"
+    },
+    {
+      "id": "c101",
+      "name": "Johnny Depp",
+      "email": "johnny_depp@gmail.com",
+      "address": "xx-xx-xxxx,x - street, x - country",
+      "number": "9999999998",
+      "gender": "Male"
+    },
+    {
+      "id": "c102",
+      "name": "Alberto",
+      "email": "test1@gmail.com",
+      "address": "xx-xx-xxxx,x - street, x - country",
+      "number": "9999999997",
+      "gender": "Female"
+    },
+    {
+      "id": "c103",
+      "name": "Delvik",
+      "email": "test2@gmail.com",
+      "address": "xx-xx-xxxx,x - street, x - country",
+      "number": "9999999996",
+      "gender": "Female"
+    },
+    {
+      "id": "c104",
+      "name": "Alen",
+      "email": "test3@gmail.com",
+      "address": "xx-xx-xxxx,x - street, x - country",
+      "number": "9999999995",
+      "gender": "Male"
+    },
+    {
+      "id": "c105",
+      "name": "Twister",
+      "email": "test4@gmail.com",
+      "address": "xx-xx-xxxx,x - street, x - country",
+      "number": "9999999994",
+      "gender": "Male"
+    },
+    {
+      "id": "c106",
+      "name": "Ramson",
+      "email": "test5@gmail.com",
+      "address": "xx-xx-xxxx,x - street, x - country",
+      "number": "9999999993",
+      "gender": "Male"
+    },
+    {
+      "id": "c107",
+      "name": "Alfredo",
+      "email": "test6@gmail.com",
+      "address": "xx-xx-xxxx,x - street, x - country",
+      "number": "9999999992",
+      "gender": "Female"
+    },
+    {
+      "id": "c108",
+      "name": "Emma wise",
+      "email": "test7@gmail.com",
+      "address": "xx-xx-xxxx,x - street, x - country",
+      "number": "9999999991",
+      "gender": "Male"
+    },
+    {
+      "id": "c109",
+      "name": "Robert",
+      "email": "test8@gmail.com",
+      "address": "xx-xx-xxxx,x - street, x - country",
+      "number": "9999999990",
+      "gender": "Male"
+    }
+  ]
+}
